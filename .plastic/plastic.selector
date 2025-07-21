@@ -1,0 +1,4 @@
+repository "pc_mobile@Sage_Main@cloud"
+  path "/"
+    br "/main"
+    co "/main"
